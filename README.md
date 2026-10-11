@@ -36,7 +36,7 @@ This project presents an in-depth quantitative case study and Excel-based dashbo
 ---
 
 ## 🛠️ Tools & Technologies Used
-* **Microsoft Excel:** Dashboard designing, Pivot Tables, conditional formatting, and visual charts.
+* **Microsoft Excel:** Dashboard designing, Pivot Tables, conditional formatting, and Visual charts.
 * **Quantitative Finance Concepts:** Logarithmic returns, Annualized Volatility, Moving Averages (SMA), and Maximum Drawdown (MDD).
 * **GitHub:** Version control and portfolio management.
 
